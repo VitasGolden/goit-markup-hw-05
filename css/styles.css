@@ -605,6 +605,10 @@ h6 {
 	background-color: var(--pressed-state);
 	cursor: pointer;
 	border: none;
+}
+
+.modal-close-btn:hover .modal-close-icon,
+.modal-close-btn:focus .modal-close-icon {
 	fill: #fff;
 }
 
